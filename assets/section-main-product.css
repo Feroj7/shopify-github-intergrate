@@ -1600,7 +1600,7 @@ a.product__text {
 }
 
 /*product color swatch css */
-.product-form__input input[type=radio]+label.color-swatch{
+.product-form__input input[type=radio]+label. color-swatch{
   height:40px;
   width:40px;
   border-radius:100%
