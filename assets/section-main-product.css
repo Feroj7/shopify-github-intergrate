@@ -1606,7 +1606,7 @@ a.product__text {
   border-radius:100%
 }
  
-/* .product-form__input input[type=radio]:checked+label.color-swatch{
+.product-form__input input[type=radio]:checked+label.color-swatch{
   box-shadow: 0 0 0 2px #000;
   transition: box-shadow .2s ease
 }
@@ -1621,4 +1621,4 @@ a.product__text {
   left:-1px;
   right:-1px;
   bottom:-1px;
-} */
+}
